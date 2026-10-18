@@ -222,4 +222,4 @@ WinHotKey is provided as a full free version with all features and updates inclu
 Take control of your Windows experience! Download WinHotKey free today and start customizing your shortcuts for maximum efficiency.
 
 ---
-**Last updated:** 2026-10-17 22:09:43 UTC
+**Last updated:** 2026-10-18 00:49:14 UTC
